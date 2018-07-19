@@ -1,0 +1,2 @@
+model_checkpoint_path: "SRDPN.model-1000"
+all_model_checkpoint_paths: "SRDPN.model-1000"
